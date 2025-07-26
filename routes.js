@@ -7,7 +7,7 @@ let x = -1;
 
 // Crie o cliente da IA, a chave API deve estar em variável ambiente GEMINI_API_KEY
 const ai = new GoogleGenAI({
-    apiKey: 'AIzaSyAasEjDNFKWrkslIRtzMg0lS4dVZO5ZzUM'
+    apiKey: '**************************'
 });
 
 // Função para gerar redação usando a nova API
